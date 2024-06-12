@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PostNow</string>
+    <string name="posts_list">Listas de Posts</string>
+    <string name="new_post">Novo Post</string>
+    <string name="post_details">Detalhes do Post</string>
+    <string name="dialog_error_title">Ocorreu um erro</string>
+    <string name="dialog_error_subtitle">Tivemos um imprevisto, pedimos que tente novamente</string>
+    <string name="dialog_error_button">Tente novamente</string>
+    <string name="dialog_success_title">Sucesso</string>
+    <string name="dialog_success_subtitle">Post publicado</string>
+    <string name="dialog_success_button">Fechar</string>
+    <string name="add_post">Adicionar Post</string>
+    <string name="add_title">Insira um título</string>
+    <string name="add_description">Adicione o texto ao post</string>
+</resources>
