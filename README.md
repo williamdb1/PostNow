@@ -52,3 +52,7 @@ Biblioteca para Requisições HTTP: Retrofit
 https://www.postman.com/restless-shuttle-127877/workspace/postnow/request/17739715-deece5ee-2244-4843-8ab2-62df82062db3
 
 
+
+https://github.com/williamdb1/PostNow/assets/100142214/e7f2c3ce-513e-4626-a2d8-3e5ff011b2ed
+
+
