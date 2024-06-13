@@ -40,6 +40,7 @@ fun NewPostScreen(
 ) {
     val state by viewModel.state.collectAsState()
 
+
     PnDialog(
         showDialog = state.showDialogError,
         onDismissRequest = {
